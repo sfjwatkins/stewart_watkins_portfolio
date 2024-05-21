@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Stewart Watkins"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Strategic thinker, data analyst, helping companies dervice insights from data"
+  bio    : "Data analyst with a background in FE/HE education management, I specialise in deriving insights from data"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
