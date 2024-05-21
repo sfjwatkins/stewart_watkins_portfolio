@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Stewart Watkins"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/my_pic2.jpg"
   bio    : "Data analyst with a background in FE/HE education management, I specialise in deriving insights from data"
   links:
     - label: "Website"
